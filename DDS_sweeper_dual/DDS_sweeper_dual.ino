@@ -1,14 +1,13 @@
 /***************************************************************************\
-*  Name    : DDS_Sweeper.BAS                                                *
+*  Name    : DDS_Sweeper_dual.INO                                           *
 *  
-*  Date    : 9/26/2013                                                      *
+*  Date    : 12/13/2016                                                      *
 *  Version : 1.0                                                            *
-*  Notes   : Written using for the Arduino Micro                            *
+*  Notes   : Written using for the Arduino Micro / UNO                      *
 *          :   Pins:                                                        *
 *          :    A0 - Reverse Detector Analog in                             *
 *          :    A1 - Forward Detector Analog in                             *
 \***************************************************************************/
-
 
 //LCD
 #include <Wire.h> 
