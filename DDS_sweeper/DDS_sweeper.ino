@@ -1,16 +1,12 @@
 /***************************************************************************\
-*  Name    : DDS_Sweeper.BAS                                                *
-*  Author  : Beric Dunn (K6BEZ)                                             *
-*  Notice  : Copyright (c) 2013  CC-BY-SA                                   *
-*          : Creative Commons Attribution-ShareAlike 3.0 Unported License   *
-*  Date    : 9/26/2013                                                      *
+*  Name    : DDS_Sweeper.INO                                                *
+*  
 *  Version : 1.0                                                            *
 *  Notes   : Written using for the Arduino Micro                            *
 *          :   Pins:                                                        *
 *          :    A0 - Reverse Detector Analog in                             *
 *          :    A1 - Forward Detector Analog in                             *
 \***************************************************************************/
-
 
 //LCD
 #include <Wire.h> 
